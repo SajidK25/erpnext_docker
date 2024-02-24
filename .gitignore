@@ -1,0 +1,6 @@
+logs/*.*
+sites/*.*
+sites/assets/
+sites/frontend/
+sites/*/
+.env
